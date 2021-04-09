@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Squirrelcoding
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Youtube: [Pro Poop](https://www.youtube.com/channel/UCm5uf5rzHRlhXIch6ggNH6w)
+Contact: Fffff9#9011
 
-<!---
-Squirrelcoding/Squirrelcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## SUBSCRIBE TO PRO POOP!
